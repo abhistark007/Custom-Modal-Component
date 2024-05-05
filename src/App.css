@@ -1,0 +1,16 @@
+#modal{
+    animation-name: animateModal;
+    animation-duration: 0.5s;
+    
+}
+
+@keyframes animateModal {
+    from{
+        opacity: 0;
+    }
+
+    to{
+        opacity: 1;
+    }
+    
+}
